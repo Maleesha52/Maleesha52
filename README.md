@@ -1,131 +1,153 @@
-<h1 align="center">Hi 👋, I'm Maleesha Gimhan Galapaththi</h1>
+<div align="center">
 
-<h3 align="center">
-QA Automation Engineer | Undergraduate (BSc Hons Information Systems Engineering) | SLIIT
+<h1 style="font-size:40px; margin-bottom:0;">
+Hi 👋, I'm <span style="color:#00bcd4;">Maleesha Gimhan</span>
+</h1>
+
+<h3 style="color:gray;">
+QA Automation Engineer | BSc (Hons) Information Systems Engineering | SLIIT
 </h3>
 
----
-
-## 📞 Contact Information
-
-- 📱 Phone: +94 76 929 1165  
-- 📧 Email: maleeshagimhan52@gmail.com  
-- 🔗 LinkedIn: Maleesha Gimhan  
-- 💻 GitHub: https://github.com/Maleesha52  
-- 📍 Location: Galle, Sri Lanka  
+</div>
 
 ---
 
-## 🎯 Career Objective
+## 🎯 About Me
 
-Results-driven **QA Automation Engineer** with 1.5 years of experience in banking and enterprise application testing.  
-Seeking a full-time QA Automation role where I can contribute to delivering **high-quality, scalable, and reliable software solutions** using modern automation frameworks like **Playwright and Selenium**.
+<div style="
+background:#0d1117;
+padding:15px;
+border-radius:10px;
+border:1px solid #30363d;
+color:#c9d1d9;
+">
 
----
+✔ QA Automation Engineer with 1.5 years experience in banking systems  
+✔ Specialized in Playwright, Selenium, Java & TypeScript  
+✔ Strong in POM Framework Design & API Testing  
+✔ Experience in enterprise systems (EURONET, FDA ComBank, SCA)  
+✔ Passionate about building scalable automation frameworks  
 
-## 👨‍💻 Professional Summary
-
-I am currently completing a **BSc (Hons) in Information Systems Engineering at SLIIT University (4th Year)**.
-
-I have **1.5 years of hands-on industry experience** at:
-- Commercial Bank of Ceylon
-- ORYSYS Limited
-
-I specialize in:
-- UI & API Test Automation
-- Banking domain testing (EURONET, FDA ComBank, SCA systems)
-- Framework development using **POM architecture**
-- SQL-based backend validation
-- Agile Scrum environments
+</div>
 
 ---
 
-## 💼 Work Experience
+## 📞 Contact Me
+
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<a href="mailto:maleeshagimhan52@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Maleesha52">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium">
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman">
+
+</div>
+
+---
+
+## 💼 Experience
+
+<div style="
+background:#161b22;
+padding:15px;
+border-radius:10px;
+border-left:4px solid #00bcd4;
+">
 
 ### 🧪 QA Automation Engineer Intern  
-**Commercial Bank of Ceylon | ORYSYS Limited**  
-*Jan 2025 – Present*
+Commercial Bank of Ceylon | ORYSYS Limited  
 
-- Developed automated test scripts using **Playwright & Selenium WebDriver**
-- Built scalable automation frameworks using **Page Object Model (POM)**
-- Automated end-to-end testing for banking systems (EURONET, FDA ComBank, SCA)
-- Executed functional, regression, smoke, and integration testing
-- Performed SQL validation for backend transaction accuracy
-- Logged and tracked defects using **JIRA**
-- Participated in Agile ceremonies (Sprint Planning, Standups, Retrospectives)
-- Collaborated with developers and business analysts for issue resolution
+✔ Playwright & Selenium Automation  
+✔ POM Framework Development  
+✔ Banking Systems Testing (EURONET, SCA)  
+✔ SQL Database Validation  
+✔ Agile Scrum Environment  
+✔ JIRA Defect Tracking  
 
----
-
-### 🧑‍💼 Assistant Administrator | Social Media Handler  
-**Bliss Tailors – Galle (2022 – 2024)**
-
-- Handled customer consultations and service recommendations
-- Managed social media marketing and content creation
-- Increased brand visibility through digital platforms
+</div>
 
 ---
 
-## 🧪 Technical Skills
+## 📂 Projects
 
-### 💻 Programming & Scripting
-- Java (Automation Frameworks)
-- JavaScript (Playwright Automation)
-- TypeScript (Modern Test Automation)
-- SQL (Database Validation)
-- HTML / CSS (UI Inspection)
-
-### ⚙️ Testing Tools
-- Playwright
-- Selenium WebDriver
-- JUnit / TestNG
-- Postman (API Testing)
-- JIRA (Defect Tracking)
-- Git / GitLab (Version Control)
-
----
-
-## 🧪 Testing Expertise
-
-- Functional Testing
-- Regression Testing
-- Smoke & Integration Testing
-- End-to-End Automation Testing
-- Page Object Model (POM)
-- Database Testing (SQL)
-- Agile / Scrum Methodology
-- SDLC / STLC
-
----
-
-## 📂 Academic Projects
+<div style="
+display:grid;
+gap:10px;
+">
 
 ### 💎 Online Jewelry Shop System
-- MERN Stack e-commerce platform
-- Role-based system (Admin, Customer, Order, Payment, Delivery)
-- Order management module development
-
-### 🚗 Car Service Station Management System
-- Full-stack application using React, Node.js, Express, MongoDB
-- Features: booking, invoicing, inventory, technician management
-- JWT authentication & role-based access control
+- MERN Stack e-commerce platform  
+- Role-based system (Admin, Customer, Order, Payment, Delivery)  
+- Order management module  
 
 ---
 
-## 🌍 Languages
+### 🚗 Car Service Station System
+- React + Node.js + MongoDB  
+- Booking, invoicing, technician management  
+- JWT authentication  
 
-- Sinhala – Native  
-- English – Professional  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maleesha52&show_icons=true&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleesha52&theme=tokyonight" />
+
+</p>
 
 ---
 
 ## 🎯 Goals
 
-- Become a Senior QA Automation / SDET Engineer  
-- Master CI/CD + DevOps integration in testing  
-- Build enterprise-level automation frameworks  
-- Contribute to open-source QA tools  
+<div style="
+background:#0d1117;
+padding:15px;
+border-radius:10px;
+border:1px solid #30363d;
+">
+
+✔ Become Senior QA Automation Engineer  
+✔ Master DevOps + CI/CD Integration  
+✔ Build enterprise-level automation frameworks  
+✔ Contribute to open-source QA tools  
+
+</div>
 
 ---
 
-⭐ “Quality is never an accident; it is always the result of intelligent effort.”
+<div align="center">
+
+### ⭐ “Quality is not an act, it is a habit.”
+
+</div>

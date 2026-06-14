@@ -22,24 +22,53 @@
 
 </div>
 
----
+<div align="center">
 
-## 👤 About Me
+# 👋 Hi, I'm Maleesha Gimhan
 
-```ts
-const maleesha = {
-  role      : "QA Automation Engineer Intern",
-  company   : "Commercial Bank of Ceylon · ORYSYS Limited",
-  education : "BSc (Hons) Information Systems Engineering @ SLIIT",
-  domain    : ["Core Banking", "EURONET", "SCA", "FDA ComBank"],
-  tools     : ["Playwright", "Selenium", "Cucumber BDD", "Postman"],
-  languages : ["TypeScript", "Java", "JavaScript", "SQL"],
-  goal      : "Become a Senior SDET in a global tech environment",
-  quote     : "Quality is not an act, it is a habit. — Aristotle",
-};
-```
+### QA Automation Engineer | Playwright Specialist | Future SDET
 
----
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Professional Summary
+
+✔ QA Automation Engineer Intern
+✔ Banking & Financial Domain Experience
+✔ Test Automation Framework Development
+✔ API Testing & Validation
+✔ CI/CD & Quality Engineering Enthusiast
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Tech Stack
+
+🔹 Playwright
+🔹 Selenium
+🔹 TypeScript
+🔹 Java
+🔹 JavaScript
+🔹 SQL
+🔹 Postman
+🔹 Git & GitHub
+
+</td>
+</tr>
+</table>
+
+### 🚀 Career Vision
+
+To become a world-class Software Development Engineer in Test (SDET), building scalable automation frameworks and driving quality in high-performance software products.
+
+### 💡 Motto
+
+> "Quality is not an act, it is a habit." — Aristotle
+
 
 ## 💼 Professional Experience
 
